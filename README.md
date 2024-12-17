@@ -15,6 +15,8 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-5E3B7C?style=flat&logo=nestjs&logoColor=white)
+
 
 ## 🌟 About Me
 
