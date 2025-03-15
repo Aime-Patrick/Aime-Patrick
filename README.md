@@ -17,7 +17,6 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-5E3B7C?style=for-the-badge&logo=nestjs&logoColor=white)
 
-
 ## 🌟 About Me
 
 - 🔭 **Currently working on**: IoT solutions in **Precision Agriculture** and a chatbot for educational awareness (EduFamBot).
@@ -26,3 +25,7 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 - 🤝 **Looking to collaborate on**: Projects that focus on **social impact** in agriculture, education, or sustainability.
 - 📫 **Reach me**: Connect via email or LinkedIn!
 - ⚡ **Fun fact**: I love discovering tech solutions that uplift communities 🌍.
+
+## 🚀 My Project
+
+![Contributors](https://img.shields.io/github/contributors/imfurankase/nmls2)
