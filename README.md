@@ -30,3 +30,6 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aime-Patrick&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aime-Patrick&layout=compact&theme=radical)
+
+
