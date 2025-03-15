@@ -28,4 +28,4 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 
 ## 🚀 My Project
 
-![Contributors](https://img.shields.io/github/contributors/imfurankase/nmls2)
+![Contributors](https://img.shields.io/github/contributors/Aime-Patrick/nmls2)
