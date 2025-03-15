@@ -26,6 +26,7 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 - 📫 **Reach me**: Connect via email or LinkedIn!
 - ⚡ **Fun fact**: I love discovering tech solutions that uplift communities 🌍.
 
-## 🚀 My Project
+## 🚀 GitHub Stats
 
-![Contributors](https://img.shields.io/github/contributors/Aime-Patrick/nmls2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aime-Patrick&show_icons=true&theme=radical)
+
