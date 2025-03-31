@@ -19,8 +19,6 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 
 ## 🌟 About Me
 
-- 🔭 **Currently working on**: IoT solutions in **Precision Agriculture** and a chatbot for educational awareness (EduFamBot).
-- 🌱 **Currently learning**: Machine Learning for IoT systems and building resilient backends with **TypeScript**.
 - 💬 **Ask me about**: Node.js, GraphQL, or MongoDB—always up for sharing and learning!
 - 🤝 **Looking to collaborate on**: Projects that focus on **social impact** in agriculture, education, or sustainability.
 - 📫 **Reach me**: Connect via email or LinkedIn!
