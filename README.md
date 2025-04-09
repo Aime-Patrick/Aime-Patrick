@@ -19,7 +19,7 @@ I'm a Full Stack Developer passionate about creating impactful, real-world solut
 
 ## 🌟 About Me
 
-- 💬 **Ask me about**: Node.js, GraphQL, or MongoDB—always up for sharing and learning!
+- 💬 **Ask me about**: Node.js, GraphQL, Flutter, Nestjs, Nextjs, RestfullApi or MongoDB always up for sharing and learning!
 - 🤝 **Looking to collaborate on**: Projects that focus on **social impact** in agriculture, education, or sustainability.
 - 📫 **Reach me**: Connect via email or LinkedIn!
 - ⚡ **Fun fact**: I love discovering tech solutions that uplift communities 🌍.
