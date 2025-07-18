@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aime Patrick!
 
-I'm a Full Stack Developer passionate about creating impactful, real-world solutions with modern tech stacks. 
+I'm a Software Engineer passionate about creating impactful, real-world solutions with modern tech stacks. 
 
 ## 🔧 Technologies & Tools
 
