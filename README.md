@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aime Patrick!
 
-I'm a Software Engineer passionate about creating impactful, real-world solutions with modern tech stacks. 
+I'm a Full-Stack Developer passionate about building **real-world solutions** using modern technologies, with a focus on scalable and user-friendly web and mobile apps.
 
 ## 🔧 Technologies & Tools
 
@@ -13,21 +13,20 @@ I'm a Software Engineer passionate about creating impactful, real-world solution
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-5E3B7C?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 🌟 About Me
 
-- 💬 **Ask me about**: Node.js, GraphQL, Flutter, Nestjs, Nextjs, RestfullApi or MongoDB always up for sharing and learning!
-- 🤝 **Looking to collaborate on**: Projects that focus on **social impact** in agriculture, education, or sustainability.
+- 💬 **Ask me about**: Node.js, Next.js, React, NestJS, GraphQL, REST APIs, MongoDB – always happy to share knowledge!
+- 🤝 **Looking to collaborate on**: Projects that create **social impact** in agriculture, education, or sustainability.
 - 📫 **Reach me**: Connect via email or LinkedIn!
 - ⚡ **Fun fact**: I love discovering tech solutions that uplift communities 🌍.
+- 🚀 **Current focus**: Building scalable web apps and interactive tools like ticket systems and dashboards.
 
-## 🚀 GitHub Stats
+## 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aime-Patrick&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aime-Patrick&layout=compact&theme=radical)
-
-
